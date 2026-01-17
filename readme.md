@@ -6,8 +6,11 @@ Python
 2) Goto extensions and install python plugin
 3) Goto extension and install code runner
 4) goto setting -> setting -> run in terminal -> click whether to run in terminal
+5) GOTO extension jupyter, pylance
 
 ![alt text](./Installation/image.png)
+
+![alt text](./Installation/image_1.png)
 
 ## DAY 1
 1) Create a python class and run
@@ -32,3 +35,9 @@ Python
 3) Nested If else, elif
 4) Multiple if condition
 5) Logical Operators (and, or, not)
+
+## Day 4
+1) Random Module
+2) create my module using import
+3) Random int, random float, uniform
+4) List
