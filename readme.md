@@ -25,3 +25,10 @@ Python
 7) Mathematical operators +,-,*,/,//,**
 8) round
 9) f-string
+
+## Day 3
+1) Control Flow if: else:
+2) Modulo Operator %
+3) Nested If else, elif
+4) Multiple if condition
+5) Logical Operators (and, or, not)
