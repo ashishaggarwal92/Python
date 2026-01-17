@@ -7,7 +7,7 @@ Python
 3) Goto extension and install code runner
 4) goto setting -> setting -> run in terminal -> click whether to run in terminal
 
-![alt text](image.png)
+![alt text](./Installation/image.png)
 
 ## DAY 1
 1) Create a python class and run
