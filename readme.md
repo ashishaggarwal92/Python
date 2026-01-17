@@ -11,3 +11,17 @@ Python
 
 ## DAY 1
 1) Create a python class and run
+2) User Input using input()
+3) Variables
+4) lenght of a string using len()
+
+## Day 2
+1) Data Types
+2) String
+3) Float
+4) Integer
+5) Boolean
+6) Type Error, Type Checking and COnversion
+7) Mathematical operators +,-,*,/,//,**
+8) round
+9) f-string

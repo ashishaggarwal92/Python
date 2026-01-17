@@ -1,0 +1,54 @@
+print(123+456)
+print(789-456)
+print(123*456)
+
+# this will always float 2.0
+print(6/3)
+
+# 2
+print(6//3)
+
+# 1
+print(5//3)
+
+# 2 power of 2
+print(2**2)
+
+# 2 power of 4
+print(2**2)
+
+# opeartors priority
+#PEMDAS
+# paranthesis, exponential(**), multiplication, division,addition,substarction
+# from left to right
+
+
+# ()
+# **
+# *
+# /
+# +
+# -
+
+
+bmi = 84 / (1.65**2)
+print(bmi)
+
+# round number
+print(round(bmi))
+
+# +=,-=, *=,/=
+
+score = 0
+score += 1
+
+# f-Strings
+
+print("your score is " + str(score))
+print("your score is " + str(score))
+
+score = 0
+height = 1.8
+is_win = True
+
+print(f"Your Score is = {score}, height is {height}. Winnin is {is_win}")
