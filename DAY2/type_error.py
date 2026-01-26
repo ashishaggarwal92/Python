@@ -4,9 +4,13 @@ len("123")
 
 # check data type
 
+# str
 print(type("Hello"))
+# int
 print(type(123))
+# float
 print(type(123.1))
+# bool
 print(type(True))
 
 

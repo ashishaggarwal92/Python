@@ -40,4 +40,34 @@ Python
 1) Random Module
 2) create my module using import
 3) Random int, random float, uniform
-4) List
+4) List, index errors, nested lists
+
+## Day 5
+1) Loops
+2) Highest Score questions
+3) for loops and range()
+4) while loops
+
+## Day 6
+1) Functions
+2) Indentattion - use 4 spaces
+
+## Day 8
+1) function with inputs
+2) Positional vs keyword arguments
+
+## Day 9
+1) Python Dictionary
+2) Nesting Lists
+
+## Day 10
+1) function with output
+2) Docstrings
+
+## Day 12
+1) Local vs global Scope
+2) Constants
+
+## Day 16
+1) Object oriented programming OOP
+
