@@ -15,7 +15,7 @@ print(5//3)
 print(2**2)
 
 # 2 power of 4
-print(2**2)
+print(2**4)
 
 # opeartors priority
 #PEMDAS
@@ -39,16 +39,5 @@ print(round(bmi))
 
 # +=,-=, *=,/=
 
-score = 0
-score += 1
 
-# f-Strings
 
-print("your score is " + str(score))
-print("your score is " + str(score))
-
-score = 0
-height = 1.8
-is_win = True
-
-print(f"Your Score is = {score}, height is {height}. Winnin is {is_win}")
